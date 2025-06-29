@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm NoxxOP</h1>
+<h1 align="center">Hi 👋, I'm <b>Nand Yaduwanshi</b></h1>
 <h3 align="center">Telegram Bot Developer | Python Enthusiast | Automation Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=435&lines=Hey+there%2C+I'm+NoxxOP!;Crafting+Telegram+Bots+with+Love+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=435&lines=Hey+there%2C+I'm+%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%B2%F0%9D%98%81+%F0%9D%97%A6%F0%9D%98%80%F0%9D%97%B9%F0%9D%98%81%F0%9D%98%80%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%BC%F0%9D%98%80!;Crafting+Telegram+Bots+with+Love+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
+<br><br>
 
 ---
 
@@ -55,7 +57,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/NoxxOP">
+  <a href="upi://pay?pa=Q633685769@ybl&pn=Nand%20Yaduwanshi&cu=INR">
     <img src="https://img.shields.io/badge/Donate-UPI-purple?style=for-the-badge&logo=buymeacoffee" />
   </a>
 </p>
@@ -68,4 +70,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by <b>NoxxOP</b></p>
+<p align="center">Made with ❤️ by <b>Nand Yaduwanshi</b></p>
