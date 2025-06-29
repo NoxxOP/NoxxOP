@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Advanced Python**, **APIs**, **MongoDB**, and more
 - 🛠️ Skills: `Python`, `Telethon`, `Pyrogram`, `SQL`, `MongoDB`, `Linux`, `Git`
 - 💬 Ask me about anything related to **Bot development** or **Python automation**
-- 📫 Reach me on Telegram: [@NoxxOP](https://t.me/NoxxOP)
+- 📫 Reach me on Telegram: [Nand Yaduwanshi](https://t.me/WTF_WhyMeeh)
 - 🧡 Support me in my journey: Scroll down!
 
 ---
@@ -19,7 +19,7 @@
 ## 📲 Connect with me
 
 <p align="center">
-  <a href="https://t.me/NoxxOP"><img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram" /></a>
+  <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram" /></a>
   <a href="https://t.me/ShrutiBots"><img src="https://img.shields.io/badge/Support%20Channel-@ShrutiBots-orange?logo=telegram" /></a>
   <a href="https://github.com/NoxxOP"><img src="https://img.shields.io/github/followers/NoxxOP?label=Follow&style=social" /></a>
 </p>
@@ -49,7 +49,7 @@
 ## 💰 Support My Coding Journey
 
 <p align="center">
-  <img src="https://telegra.ph/file/f1bf672712d51c507f1da-a33656f3733e559e90.jpg" alt="Donate QR" width="250px"/>
+  <img src="https://telegra.ph/file/f1bf672712d51c507f1da-a33656f3733e559e90.jpg" alt="Donate QR" width="650px"/>
 </p>
 
 <p align="center">
