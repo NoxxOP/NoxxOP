@@ -31,7 +31,7 @@
 ## 💰 Donate to Support
 
 <p align="center">
-  <img src="https://telegra.ph/file/f1bf672712d51c507f1da-a33656f3733e559e90.jpg" alt="Donate QR" width="260px" />
+  <img src="https://gofile.io/d/eU9YIT" alt="Donate QR" width="260px" />
 </p>
 
 <p align="center">
