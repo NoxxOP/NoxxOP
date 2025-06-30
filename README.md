@@ -31,11 +31,11 @@
 ## 💰 Donate to Support
 
 <p align="center">
-  <img src="https://gofile.io/d/eU9YIT" alt="Donate QR" width="260px" />
+  <img src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/main/assets/NandQR.jpg" alt="Donate QR" width="260px" />
 </p>
 
 <p align="center">
-  <a href="upi://pay?pa=nandyadu1c@fam&pn=Nand%20Yaduwanshi&cu=INR">
+  <a href="upi://pay?pa=Q633685769@ybl&pn=Nand%20Yaduwanshi&cu=INR">
     <img src="https://img.shields.io/badge/Donate-UPI-purple?style=for-the-badge&logo=buymeacoffee" />
   </a>
 </p>
