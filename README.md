@@ -37,7 +37,7 @@
 <p align="center"><b>UPI ID:</b> Q633685769@ybl</p>
 
 <p align="center">
-  <a href="upi://pay?pa=Q633685769@ybl&pn=Nand%20Yaduwanshi&cu=INR">
+  <a href="https://tinyurl.com/ShrutiBots">
     <img src="https://img.shields.io/badge/Donate-UPI-purple?style=for-the-badge&logo=buymeacoffee" />
   </a>
 </p>
