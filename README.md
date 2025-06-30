@@ -31,7 +31,7 @@
 <h2 align="center">💰 Donate to Support</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/main/assets/NandQR.jpg" alt="Donate QR" width="300px" />
+  <img src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/main/assets/NandQR.jpg" alt="Donate QR" width="600px" />
 </p>
 
 <p align="center"><b>UPI ID:</b> Q633685769@ybl</p>
