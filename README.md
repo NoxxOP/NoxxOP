@@ -28,16 +28,23 @@
 
 ---
 
-## 💰 Donate to Support
+<h2 align="center">💰 Donate to Support</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/main/assets/NandQR.jpg" alt="Donate QR" width="260px" />
+  <img src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/main/assets/NandQR.jpg" alt="Donate QR" width="300px" />
 </p>
+
+<p align="center"><b>UPI ID:</b> Q633685769@ybl</p>
 
 <p align="center">
   <a href="upi://pay?pa=Q633685769@ybl&pn=Nand%20Yaduwanshi&cu=INR">
     <img src="https://img.shields.io/badge/Donate-UPI-purple?style=for-the-badge&logo=buymeacoffee" />
   </a>
+</p>
+
+<p align="center">
+  📱 <b>Mobile:</b> Tap the button above and choose a UPI app.<br>
+  💻 <b>Desktop:</b> Scan the QR code using PhonePe, GPay, etc.
 </p>
 
 ---
