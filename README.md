@@ -67,9 +67,6 @@
   <img src="https://komarev.com/ghpvc/?username=NoxxOP&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NoxxOP/count.svg" />
-</p>
 ---
 
 ## 😎 About Me
