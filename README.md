@@ -113,15 +113,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoxxOP&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/NoxxOP?style=for-the-badge&label=FOLLOWERS&color=0057FF"/>
-  <img src="https://img.shields.io/github/stars/NoxxOP?style=for-the-badge&label=STARS&color=FFD700"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/output/snake.svg" width="600"/>
+  <img src="https://komarev.com/ghpvc/?username=NoxxOP&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/NoxxOP?style=for-the-badge&label=ꜰᴏʟʟᴏᴡᴇʀꜱ&color=0057FF&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/NoxxOP?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=ꜱᴛᴀʀꜱ&color=FFD700&logo=github&logoColor=white"/>
 </p>
 
 ---
