@@ -121,6 +121,16 @@
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxxOP/NoxxOP/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoxxOP/NoxxOP/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/NoxxOP/NoxxOP/output/snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00F7FF&height=120&section=footer"/>
 </p>
 
